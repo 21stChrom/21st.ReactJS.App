@@ -1,5 +1,5 @@
 import React from 'react';
-import Webimage from 'WebImages';
+import WebImage from 'WebImages';
 import './App.css';
 import StopWatch from './Components/StopWatch/StopWatch.jsx';
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
         <div>
-      <Webimage />
+      <WebImage />
       </div>
       <StopWatch />
       <iframe
