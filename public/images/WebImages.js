@@ -1,5 +1,5 @@
-import pic from ".images/image.png";
+import image from ".images/image.png";
 function WebImage(){
- return <img src={pic} />
+ return <img src={image} />
 }
 export default WebImage
