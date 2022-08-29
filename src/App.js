@@ -1,5 +1,5 @@
 import React from 'react';
-import WebImage from './WebImages.js';
+import WebImage from '.WebImages.js';
 import './App.css';
 import StopWatch from './Components/StopWatch/StopWatch.jsx';
 
