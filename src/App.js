@@ -1,7 +1,7 @@
-import React from 'react';
-import WebImage from '.WebImages.js';
-import './App.css';
-import StopWatch from './Components/StopWatch/StopWatch.jsx';
+import React from 'react'
+import WebImage from './Webimage'
+import './App.css'
+import StopWatch from './Components/StopWatch/StopWatch.jsx'
 
 function App() {
   return (
