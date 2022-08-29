@@ -1,4 +1,5 @@
 import React from 'react';
+import Webimage from 'WebImages';
 import './App.css';
 import StopWatch from './Components/StopWatch/StopWatch.jsx';
 
@@ -7,7 +8,7 @@ function App() {
     <div className="App">
       <StopWatch />
       <div>
-      <img src="https://stackblitz.com/files/react-nfw3dh/github/21stChrom/react-nfw3dh/main/public/favicon-32x32.png" />
+      <Webimage />
       </div>
       <iframe
         id="embed"
